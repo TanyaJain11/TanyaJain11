@@ -5,11 +5,6 @@
 - 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: <span>[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/tanya-jain-dev/)   [![Connect on Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:jaintanya231@gmail.com)</span>
 
 <br/>
-&emsp;&emsp;<a href="#">
-    <img src="https://komarev.com/ghpvc/?username=TanyaJain11&color=blueviolet">
-</a>
-
-<br/>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TanyaJain11" alt="TanyaJain11" /></a> </p>
 
